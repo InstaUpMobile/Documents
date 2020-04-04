@@ -2,7 +2,7 @@
 
 Please be sure to read over the details in these Terms. 
 By signing up for a subscription with InstaUp you agree that you have read, understand the contents of,  and agree to all terms and conditions.
-Should you have any questions concerning this Agreement, please contact instaupcommunity@gmail.com.
+Should you have any questions concerning this Agreement, please contact instaup.mobile@gmail.com.
 
 These terms and conditions are between the user and InstaUp governing use of InstaUp services (the "Service").
 
@@ -55,9 +55,7 @@ You agree not to use or access any of the Services
 We take intellectual property rights seriously and expect other to do the same.
 For the purposes of these Terms, “Intellectual Property Rights” means all patent rights, trade names, proprietary rights, copyright rights, titles, computer codes, audiovisual effects, themes, characters, character names, stories, dialog, musical works, settings, artwork, mask work rights, sound effects, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
 
-If you are the owner of the intellectual property right or a person authorized to act on owners’ behalf and believe in good faith that any Content made available through InstaUp Services infringes your intellectual property right, please let us know. You may submit a written notice of alleged copyright/intellectual property rights infringement to our designated copyright agent at the following address:
-
-instaupcommunity@gmail.com.
+If you are the owner of the intellectual property right or a person authorized to act on owners’ behalf and believe in good faith that any Content made available through InstaUp Services infringes your intellectual property right, please let us know. You may submit a written notice of alleged copyright/intellectual property rights infringement to our designated copyright agent at the following address: instaup.mobile@gmail.com
 
 ## Monitoring and enforcment; Termination
 
@@ -85,6 +83,6 @@ If you have downloaded the InstaUp app from the Apple, Inc. (“Apple”) App St
 
 ## Your comments and concerns
 
-Please direct questions or concerns regarding these Terms of Service or the Services to InstaUp at instaupcommunity@gmail.com
+Please direct questions or concerns regarding these Terms of Service or the Services to InstaUp at instaup.mobile@gmail.com
 
 The effective date of these Terms of Service is April 01, 2020.
